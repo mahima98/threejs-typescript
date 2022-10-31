@@ -1,0 +1,17 @@
+{
+  "name": "threejs-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.146.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.144.0"
+  }
+}
